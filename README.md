@@ -234,11 +234,11 @@ Kedua class dapat dipakai ulang di bagian mana pun tanpa menulis ulang aturannya
 
 Pada lebar layar di bawah 768px, `flex-direction: column` mengubah susunan tiga *card* dari berjajar menjadi **satu kolom**. Header dan ukuran judul juga disesuaikan agar nyaman dibaca di ponsel.
 
-**Hasil tampilan desktop:**
+## Hasil tampilan desktop:
 <img width="1280" height="1021" alt="tampilan-desktop" src="https://github.com/user-attachments/assets/b7974139-e084-4e44-820d-a118c93de989" />
 
 
-**Hasil tampilan mobile:**
+## Hasil tampilan mobile:
 <img width="375" height="1457" alt="tampilan-mobile" src="https://github.com/user-attachments/assets/4bc45ace-9e4e-4cd6-9d21-180ee4732724" />
 
 
