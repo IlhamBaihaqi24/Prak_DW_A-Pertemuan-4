@@ -92,8 +92,8 @@ Tugas_Arunika_Studio/
 ├── css/
 │   └── style.css                   # Seluruh aturan tampilan
 ├── screenshots/
-│   ├── bukti-tampilan-desktop.png  # Hasil tampilan desktop
-│   └── bukti-tampilan-mobile.png   # Hasil tampilan mobile
+│   ├── tampilan-desktop.png  # Hasil tampilan desktop
+│   └── tampilan-mobile.png   # Hasil tampilan mobile
 ├── ringkasan-dan-peran.md          # Ringkasan 150-250 kata dan catatan peran
 └── README.md                       # Laporan praktikum
 ```
@@ -236,11 +236,13 @@ Pada lebar layar di bawah 768px, `flex-direction: column` mengubah susunan tiga 
 
 **Hasil tampilan desktop:**
 
-![Hasil Desktop](screenshots/tampilan-desktop.png)
+![Hasil Desktop](<img width="1280" height="1021" alt="tampilan-desktop" src="https://github.com/user-attachments/assets/28792b9c-be2d-4e89-ba5e-69384d3a38a2" />
+)
 
 **Hasil tampilan mobile:**
 
-![Hasil Mobile](screenshots/tampilan-mobile.png)
+![Hasil Mobile](<img width="375" height="1457" alt="tampilan-mobile" src="https://github.com/user-attachments/assets/187931b9-725a-4bea-a63c-3241cde700b5" />
+)
 
 ---
 
